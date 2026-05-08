@@ -31,7 +31,7 @@ The framework is designed to resolve how structural perturbations redistribute a
 ## Repository Contents
 
 ```text
-SKALE2_0_core_training_GitHub_ready_compact.py
+skale2_core_training.py
 README.md
 ```
 
