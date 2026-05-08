@@ -109,7 +109,7 @@ export SKALE2_DIR_PRNP="/path/to/PRNP"
 In Google Colab or a local Python environment, run:
 
 ```bash
-python SKALE2_0_core_training_GitHub_ready_compact.py
+python skale2_core_training.py
 ```
 
 The script will:
